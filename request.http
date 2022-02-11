@@ -1,0 +1,27 @@
+###
+GET http://localhost:9000/api
+
+###
+POST http://localhost:9000/api
+Content-Type: application/json
+
+{
+    "title": "",
+    "author": "",
+    "edition": ,
+
+}
+
+###
+DELETE http://localhost:9000/api/:id
+
+###
+PUT http://localhost:9000/api/:id
+Content-Type: application/json
+
+{
+    "title": "",
+    "author": "",
+    "edition": ,
+
+}
